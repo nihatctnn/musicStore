@@ -1,1 +1,1 @@
-# A website on which musical instruments are sold.
+# It is a web page where musical instruments are sold.
